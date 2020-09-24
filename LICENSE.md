@@ -1,5 +1,5 @@
 # ActiveQ CSS
-## MIT LICENSE
+### MIT LICENSE
 
 Copyright (c) 2020 ActiveQ and Affiliates
 
@@ -22,13 +22,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. 
 
 
-## Third Party Notices
+### Third Party Notices
 This project incorporates components from other projects and their original 
 copyright notices and the licenses under which such components were 
 received are set forth below. 
 
 1.	Normalize.css version 8.0.1 (https://github.com/necolas/normalize.css)
 2.	W3css version 4.10 (https://github.com/JaniRefsnes/w3css)
+
+-------------------
 
 The MIT License (MIT)
 Copyright © Nicolas Gallagher and Jonathan Neal
