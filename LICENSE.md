@@ -1,4 +1,5 @@
-# MIT LICENSE
+# ActiveQ CSS
+## MIT LICENSE
 Copyright (c) 2016 Nicolas Gallagher and Jonathan Neal, Normalize.css, v8.01, (https://github.com/necolas/normalize.css/blob/master/LICENSE.md )
 Copyright (c) 2018 Jan Egil Refsnes, W3.css, v4.12, (https://github.com/JaniRefsnes/w3css/blob/master/LICENSE)
 Copyright (c) 2020 Active Q & Affiliates, Active Q CSS, (https://github.com/ActiveQ/CSS/blob/master/LICENSE)
