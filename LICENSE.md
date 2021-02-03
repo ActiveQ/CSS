@@ -53,7 +53,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. 
 
 https://github.com/necolas/normalize.css/blob/master/LICENSE.md
+
 -------------------
+
 MIT License
 
 Copyright (c) 2018 JaniRefsnes
@@ -77,4 +79,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 https://github.com/JaniRefsnes/w3css/blob/master/LICENSE
+
 -------------------
