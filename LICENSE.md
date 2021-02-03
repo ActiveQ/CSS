@@ -31,7 +31,7 @@ received are set forth below.
 2.	W3css version 4.10 (https://github.com/JaniRefsnes/w3css)
 
 -------------------
-
+https://github.com/JaniRefsnes/w3css/blob/master/LICENSE
 The MIT License (MIT)
 Copyright © Nicolas Gallagher and Jonathan Neal
 
